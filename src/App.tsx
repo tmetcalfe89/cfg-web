@@ -10,7 +10,7 @@ function App() {
         flexDirection: "column",
       }}
     >
-      <img src="/robot_arm.svg" />
+      <img src="/cfg-web/robot_arm.svg" />
       <p style={{ fontWeight: "bold", fontSize: "5rem" }}>Coming soon...</p>
     </div>
   );
