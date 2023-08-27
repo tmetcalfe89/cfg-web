@@ -11,7 +11,7 @@ function App() {
       }}
     >
       <img src="/cfg-web/robot_arm.svg" />
-      <p style={{ fontWeight: "bold", fontSize: "5rem" }}>Coming soon...</p>
+      <p style={{ fontWeight: "bold", fontSize: "5rem" }}>Coming soon</p>
     </div>
   );
 }
